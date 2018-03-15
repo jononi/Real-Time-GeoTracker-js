@@ -48,8 +48,6 @@
  *   (port to Particle Electron, specialize for ubx 8, simplify, add commands)
  * @author Jaafar Benabdallah
  *   (port to Particle Photon/Redbear Duo, NeoM8N module)
- *
- *s
  */
 
 #include <functional>
