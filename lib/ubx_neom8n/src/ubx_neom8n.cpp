@@ -47,8 +47,8 @@
  * @author Ankur Dave
  *   (port to Particle Electron, specialize for ubx 8, simplify, add commands)
  *
- * @see https://www2.u-blox.com/images/downloads/Product_Docs/u-blox6-GPS-GLONASS-QZSS-V14_ReceiverDescriptionProtocolSpec_Public_(GPS.G6-SW-12013).pdf
- * @see https://www.u-blox.com/sites/default/files/products/documents/u-bloxM8_ReceiverDescrProtSpec_%28UBX-13003221%29_Public.pdf
+ * @author Jaafar Benabdallah
+ *   (port to Particle Photon/Redbear Duo, NeoM8N module)
  */
 
 #include <math.h>
