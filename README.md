@@ -1,3 +1,6 @@
+This version of the project uses a node.js based server side event listener and is deprectaed.
+It's replaced by a more robust and up-to-date version based on [Particle's webhooks](https://docs.particle.io/tutorials/device-cloud/webhooks/) and [Influx telegraf](https://portal.influxdata.com/downloads/) data collector [plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/webhooks/particle) and is [hosted here](https://github.com/jononi/Real_Time_Geo_Tracker). 
+
 Requisites:
 
 Hardware:
